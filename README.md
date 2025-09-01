@@ -60,9 +60,6 @@ Siempre he tenido afinidad con el sector tecnológico, lo digital y el desarroll
 </table>
 
 ---
-⬆️ Contribuciones	<img src="https://github-readme-stats.vercel.app/api?username=JeisonGuasca&hide=issues,prs,contribs,commits&show_icons=true&theme=dracula&rank_icon=true&custom_title=Contribuciones&hide_border=true&hide_title=true" alt="Contribuciones Totales" width="150"/>
-📝 Commits (Último Año)	<img src="https://github-readme-stats.vercel.app/api?username=JeisonGuasca&hide=issues,prs,contribs,commits&show_icons=true&theme=dracula&rank_icon=true&custom_title=Commits&hide_border=true&hide_title=true" alt="Commits Totales" width="150"/>
----
 
 ### 🌱 Actualmente estoy...
 
