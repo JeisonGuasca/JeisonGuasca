@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Jeison Guasca
 
 <a href="https://www.linkedin.com/in/jeison-guasca-28a930348/">
-  <img align="right" alt="Alex's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Jeison LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:guascajeison@gmail.com">
-  <img align="right" alt="Alex's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="right" alt="Jeison Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br>
@@ -64,8 +64,8 @@ Siempre he tenido afinidad con el sector tecnológico, lo digital y el desarroll
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeisonGuasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonGuasca&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeisonGuasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonGuasca&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
