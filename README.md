@@ -64,8 +64,8 @@ Siempre he tenido afinidad con el sector tecnológico, lo digital y el desarroll
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexZSegovia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZSegovia&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeisonGuasca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonGuasca&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
